@@ -3,10 +3,9 @@ ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Database Details
 dbhost='mysql2.blazingfast.io';
-dbuser='spidervp2_2023';
-dbpass='spidervp2_2023';
-dbname='spidervp2_2023';
-dbport='3306';
+dbuser='s3';
+dbpass='s3';
+dbname='s3';
 dbport='3306';
 RED='\033[01;31m';
 RESET='\033[0m';
